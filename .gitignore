@@ -1,0 +1,14 @@
+# 데이터 파일
+data/items.json
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Streamlit 비밀 정보
+.streamlit/secrets.toml
+
+# Playwright 스크린샷
+.playwright-mcp/
